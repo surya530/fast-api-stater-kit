@@ -6,9 +6,7 @@ from sqlalchemy.orm import DeclarativeBase
 
 
 DATABASE_URL = (
-    "postgresql+asyncpg://neondb_owner:npg_TViI8PUZq2fw"
-    "@ep-sparkling-boat-b5mdxqpc-pooler.c-7.us-east-2.aws.neon.tech/"
-    "neondb?ssl=require"
+   
 )
 
 
