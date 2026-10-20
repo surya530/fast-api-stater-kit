@@ -1,7 +1,7 @@
 from sqlalchemy.ext.asyncio import create_async_engine, async_sessionmaker, AsyncSession
 from sqlalchemy.orm import DeclarativeBase
 
-# DATABASE_URL = "postgresql://neondb_owner:npg_TViI8PUZq2fw@ep-sparkling-boat-b5mdxqpc-pooler.c-7.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+
 
 
 
